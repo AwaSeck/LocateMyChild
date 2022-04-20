@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LOCALISER MON ENFANT</string>
+    <string name="bienvenue"><b><i>BIENVENUE !</i></b></string>
+    <string name="connexionEnfant"><b>Portail de connexion ENFANT</b></string>
+    <string name="connexionParent"><b>Portail de connexion PARENT</b></string>
+
+    <string name="inscription"><b>Inscription (PARENT ET ENFANT)</b></string>
+
+    <string name="questionnaire_du_parent"><b><u>Questionnaire du parent</u></b></string>
+
+    <string name="identifiants_enfant"><b><u>Les identifiants de l\'enfant</u></b></string>
+
+    <string name="parent"><b>PARENT</b></string>
+    <string name="enfant"><b>ENFANT</b></string>
+</resources>
